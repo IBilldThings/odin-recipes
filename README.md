@@ -1,0 +1,1 @@
+This project comes from TheOdinProject's foundations course and will showcase how much I have learned from their HTML lessons.
